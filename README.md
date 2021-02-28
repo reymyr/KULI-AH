@@ -13,7 +13,7 @@ Ini merupakan algoritma Decrease and Conquer varian 'Decrease by a variable size
 Python 3
 
 ## Cara Menggunakan Program
-Jalankan file main.py dalam folder src, kemudian masukkan nama file problem yang ingin dicari solusinya. File problem harus berada pada folder test dan mengikuti template yang sudah ada.
+Jalankan file main_13519167.py dalam folder src, kemudian masukkan nama file problem yang ingin dicari solusinya. File problem harus berada pada folder test dan mengikuti template yang sudah ada.
 
 ## Author
 Reyhan Emyr Arrosyid - 13519167
