@@ -1,5 +1,5 @@
 import os
-from matkul import Matkul
+from matkul_13519167 import Matkul
 
 ## DEKLARASI FUNGSI DAN PROSEDUR
 # Fungsi untuk mengambil mata kuliah yang sudah tidak memiliki prerequisite
